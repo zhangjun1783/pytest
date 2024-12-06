@@ -8,7 +8,7 @@ from common import send_mail_result
 from common import zip_result
 from log import record_log
 from common import readConfig
-
+#ces
 
 def run(result_type):
     """执行并生成allure测试报告"""
